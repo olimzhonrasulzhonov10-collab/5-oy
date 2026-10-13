@@ -34,5 +34,5 @@
 // T>=20? console.log("Yumshoq kiyining"):console.log("Qalin kiyinib chiqing ")
 
 //---------Ternary---------------Task9-------
-let n=-5;
-n>0? console.log("N ta element mavjud"):console.log("Massiv bo'sh")
+// let n=-5;
+// n>0? console.log("N ta element mavjud"):console.log("Massiv bo'sh")
